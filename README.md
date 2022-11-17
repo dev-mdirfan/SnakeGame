@@ -35,7 +35,7 @@ The Steps involved are :
    Turtle instance and the food Turtle instance is less than 15 px.
    
 7. Detecting the collision with the boundaries :
-   The size of the Game Screen is 600 x 600 px. The Snake is considered collided with the boundarld sy
+   The size of the Game Screen is 600 x 600 px. The Snake is considered collided with the boundaries
    once the position of the snake head Turtle instance surpasses the range (-280, 280), x and y coordinate both.
    
 8. Detecting the collision with the Snake's own tail :
