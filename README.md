@@ -1,7 +1,9 @@
 # SnakeGame
 
+This project is a simple version of the Legendary Snake Game.
+
 Snake is a video game genre where the player maneuvers a growing line in order to eat food,
-that becomes a primary obstacle to itself as it grow.
+that becomes a primary obstacle to itself as it grows.
 Turtle Module of the Python Standard Library is primarily used in this project.
 The Project is completely Object Oriented.
 
@@ -34,7 +36,7 @@ The Steps involved are :
    
 7. Detecting the collision with the boundaries :
    The size of the Game Screen is 600 x 600 px. The Snake is considered collided with the boundarld sy
-   once the position of the snake head Turtle instance surpasses the range (-280, 280) x and y coordinate both.
+   once the position of the snake head Turtle instance surpasses the range (-280, 280), x and y coordinate both.
    
 8. Detecting the collision with the Snake's own tail :
    The Snake is considered collided with its own tail once the distance of the snake head Turtle instance from
