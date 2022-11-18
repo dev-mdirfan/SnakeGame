@@ -7,6 +7,8 @@ that becomes a primary obstacle to itself as it grows.
 Turtle Module of the Python Standard Library is primarily used in this project.
 The Project is completely Object Oriented.
 
+![demo](https://user-images.githubusercontent.com/104984582/202743568-daaa1e94-cc48-45bc-aa13-796444a8a728.JPG)
+
 The Steps involved are :
 
 1. Creating the Snake Body :
