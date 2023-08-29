@@ -1,4 +1,4 @@
-# SnakeGame
+# Snake Game 
 
 This project is a simple version of the Legendary Snake Game.
 
@@ -9,7 +9,13 @@ The Project is completely Object Oriented.
 
 ![demo](https://user-images.githubusercontent.com/104984582/202743568-daaa1e94-cc48-45bc-aa13-796444a8a728.JPG)
 
-The Steps involved are :
+## Tech Used:
+
+- Python
+- PyGame
+
+
+## The Steps involved are :
 
 1. Creating the Snake Body :
    The Snake body is created in the Snake class.
